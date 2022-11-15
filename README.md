@@ -1,6 +1,6 @@
 # Piiquante
 
-This is the front end and back end server for Project 6 of the Web Developer path.
+This is the front end and back end server for the 6th project of the Web Developer path.
 
 ### Prerequisites
 
